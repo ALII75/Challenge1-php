@@ -1,5 +1,9 @@
 <?php
 $book = 'voyage de Stevenson avec un âne';
-$learn = 'yes';
-$edition ='2012';
-$price = '27';
+$learn = 'false';
+$edition ='2017';
+$price = '6.99';
+
+echo $book; 
+echo $learn;
+echo
