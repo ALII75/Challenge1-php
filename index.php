@@ -4,6 +4,5 @@ $learn = 'false';
 $edition ='2017';
 $price = '6.99';
 
-echo $book; 
-echo $learn;
-echo
+echo $book . "\n" . $learn . "\n" . $edition . "\n" . $price;
+
